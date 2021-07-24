@@ -5,4 +5,4 @@ function greet(name) {
     return "Ola " + name;
 }
 exports.greet = greet;
-console.log(greet('Mahteus Mol'));
+console.log(greet('Mahteus Henrique Mol'));
